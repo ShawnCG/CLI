@@ -1,0 +1,15 @@
+{
+    "name": "shawncg/cli",
+    "description": "Command-line Interface class for PHP",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shawn",
+            "email": "me@shawngrav.name"
+        }
+    ],
+    "psr-4": {
+        "SCG\\Component\\CLI": "src/"
+    },
+    "require": {}
+}
